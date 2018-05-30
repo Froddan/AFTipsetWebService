@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFTipsetWebService", "AFTipsetWebService\AFTipsetWebService.csproj", "{D7EE0666-7866-4565-A40D-9F1F6F6464D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFTipsetService.Host", "AFTipsetService.Host\AFTipsetService.Host.csproj", "{9D2C3806-87C8-4410-A443-E2945131AA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EE0666-7866-4565-A40D-9F1F6F6464D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EE0666-7866-4565-A40D-9F1F6F6464D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EE0666-7866-4565-A40D-9F1F6F6464D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EE0666-7866-4565-A40D-9F1F6F6464D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2C3806-87C8-4410-A443-E2945131AA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2C3806-87C8-4410-A443-E2945131AA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2C3806-87C8-4410-A443-E2945131AA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2C3806-87C8-4410-A443-E2945131AA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

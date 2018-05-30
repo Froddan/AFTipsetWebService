@@ -1,0 +1,6 @@
+/packages
+/.vs
+/AFTipsetService.Host/bin
+/AFTipsetService.Host/obj
+/AFTipsetWebService/bin
+/AFTipsetWebService/obj
